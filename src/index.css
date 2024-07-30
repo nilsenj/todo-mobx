@@ -30,19 +30,6 @@ html, body {
 
 }
 
-@keyframes sparkle {
-  0%, 100% { opacity: 0; transform: scale(0.5); }
-  50% { opacity: 1; transform: scale(1.5); }
-}
-
-.sparkle {
-  position: absolute;
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  animation: sparkle 1s infinite;
-}
-
 @keyframes thumbsUp {
   0% {
     transform: scale(4);

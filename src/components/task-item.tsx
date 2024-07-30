@@ -11,36 +11,6 @@ interface Props {
 const DISAPPEAR_CLASS = 'scale-75 -mb-[calc(48px+12px)] opacity-0 z-0';
 const DISAPEAR_DELAY = 120;
 
-const generateSparkles = (count: number) => {
-    const colors = [
-        'red', 'orange', 'yellow', 'green', 'blue', 'purple', 'pink', 'cyan', 'magenta'
-    ];
-
-    const sparkles = [];
-    for (let i = 0; i < count; i++) {
-        const color = colors[Math.floor(Math.random() * colors.length)];
-        const size = Math.random() * 10 + 5;
-        const top = Math.random() * 80 + 10;
-        const left = Math.random() * 80 + 10;
-        const delay = Math.random() * 1;
-        sparkles.push(
-            <div
-                key={i}
-                className="sparkle"
-                style={{
-                    backgroundColor: color,
-                    width: size,
-                    height: size,
-                    top: `${top}%`,
-                    left: `${left}%`,
-                    animationDelay: `${delay}s`
-                }}
-            ></div>
-        );
-    }
-    return sparkles;
-};
-
 export const TaskItem = (props: Props) => {
     const store = useStore();
 

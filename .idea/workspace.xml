@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6c7983d-7cfc-444f-8785-6c162e8d46fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/app-container.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/base-text.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/task-input.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/task-item.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/task-list.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/theme-toggle.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stores/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stores/task.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stores/theme.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/task-item.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/task-item.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722349314895</updated>
-      <workItem from="1722349316608" duration="15602000" />
+      <workItem from="1722349316608" duration="15970000" />
     </task>
     <servers />
   </component>
